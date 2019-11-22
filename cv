@@ -1,0 +1,6 @@
+mkdir CV
+cd CV
+git init
+
+git config --global user.name "whale"
+git config --global user.email "2513987693@qq.com"
